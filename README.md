@@ -2,7 +2,7 @@
 
 ## Performing an analysis on green energy stock data
 
-### To determine which stocks performed the best based on their yearly trading volume and stock market returns
+### To determine which stocks performed the best based on their yearly trading volume and returns
 
 ## Results
 
