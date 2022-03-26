@@ -16,6 +16,7 @@ AllStocksAnalysis_2018.png
 ### Code Performance
 The first script I wrote to perform the stock analysis, was able to execute the output faster than the refactored code. The original AllStocksAnalysis() script ran in 0.71875 seconds for 2017 and 0.75 seconds for 2018. The refactored script had an execution time of 0.8203125 seconds for 2017 and 0.8125 seconds for 2018.
 
+![image](https://user-images.githubusercontent.com/100643519/160240680-1320cca7-6a93-4a96-9566-9df6ae7b99fc.png)
 VBA_Challenge_2017
 
 VBA_Challenge_2018
