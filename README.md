@@ -14,7 +14,7 @@ AllStocksAnalysis_2017.png
 AllStocksAnalysis_2018.png
 
 ### Code Performance
-The first script I wrote to perform the stock analysis, was able to execute the output faster than the refactored code. The original AllStocksAnalysis() script ran in 0.71875 seconds for 2017 and 0.75 seconds for 2018. The refactored script had an exectution time of 0.8203125 seconds for 2017 and 0.8125 seconds for 2018.
+The first script I wrote to perform the stock analysis, was able to execute the output faster than the refactored code. The original AllStocksAnalysis() script ran in 0.71875 seconds for 2017 and 0.75 seconds for 2018. The refactored script had an execution time of 0.8203125 seconds for 2017 and 0.8125 seconds for 2018.
 
 VBA_Challenge_2017
 
@@ -22,6 +22,6 @@ VBA_Challenge_2018
 
 ## Summary
 
-- The advantage of refactoring code is that you already have the structure and ideas of someone else's code to start from. You are only trying to improve the code and make it run more efficiently. The disadvatage is that you are having to build onto someone else's work, and they may not have approached it in the same way that you would.
+- The advantage of refactoring code is that you already have the structure and ideas of someone else's code to start from. You are only trying to improve the code and make it run more efficiently. The disadvantage is that you are having to build onto someone else's work, and they may not have approached it in the same way that you would have.
 
-- 
+- I do see the benefit of collaborating with others to write a code. In general, I think having combined knowledge, experience, and ideas is going to produce better results. However, because I am new to using VBA, I found it more difficult to understand the script when I had not written it from the beginning.
