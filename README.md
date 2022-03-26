@@ -7,7 +7,7 @@
 ## Results
 
 ### Stock Performance
-The annual stock returns, on the alternative energy stocks I analyzed, were much higher in 2017 compared to 2018. RUN was the only stock that had a higher return in 2018 verse 2017. RUN also traded at a higher volume in 2018 than it did in 2017. DQ had a 199.4% return on investment in 2017, but was down 62.6% year-over-year at the end of 2018.
+The annual stock returns, on the alternative energy stocks I analyzed, were much higher in 2017 compared to 2018. Sunrun Inc. (RUN) was the only stock that had a higher return in 2018 verse 2017. RUN also traded at a higher volume in 2018 than it did in 2017. Daqo New Energy Corp. (DQ) had a 199.4% return on investment in 2017, but was down 62.6% year-over-year at the end of 2018.
 
 ![image](https://user-images.githubusercontent.com/100643519/160240758-d6ee1eca-4b6a-4cd3-843f-e95c9dd3f9ea.png)
 
